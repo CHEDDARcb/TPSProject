@@ -21,5 +21,5 @@
 
 ## アニメーション
 * Layers
-<img width="446" alt="스크린샷 2024-05-21 오전 7 12 55" src="https://github.com/CHEDDARcb/TPSProject/assets/114633645/b07ca474-75d0-43e1-8ce1-e45d66672fba">
+<img width="444" alt="스크린샷 2024-05-21 오전 7 35 37" src="https://github.com/CHEDDARcb/TPSProject/assets/114633645/17dfcda2-181b-42d6-b62d-075254a89703">
 
