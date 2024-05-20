@@ -23,3 +23,8 @@
 * Layers
 <img width="444" alt="스크린샷 2024-05-21 오전 7 35 37" src="https://github.com/CHEDDARcb/TPSProject/assets/114633645/17dfcda2-181b-42d6-b62d-075254a89703">
 
+* Base Layer
+<img width="898" alt="스크린샷 2024-05-21 오전 7 13 45" src="https://github.com/CHEDDARcb/TPSProject/assets/114633645/fe410e42-eb7a-4740-82da-82c3ee751485">
+* Movement
+<img width="895" alt="스크린샷 2024-05-21 오전 7 14 31" src="https://github.com/CHEDDARcb/TPSProject/assets/114633645/a3fd7f7c-e68f-4941-ae40-a364a683692f">
+
