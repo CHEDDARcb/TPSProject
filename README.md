@@ -11,7 +11,8 @@
 
 ### 👤 開発人数:
 
-### 💻 開発環境:![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 2022.3.4f1
+### 💻 開発環境:
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 2022.3.4f1
 
 
 
